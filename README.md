@@ -37,18 +37,30 @@ This keyboarded and encoded edition of the
 
 #####Front#####
 
-1. EPIGRAMMA IN OPERA Pijssimi, & doctiss. Theologi. M. Ric. Greenham, labore ac studio. M. Hollandi, diuini verbi apud Londinates Ministri fideliss. edita, post obitum Authoris, per F. Hering. D. Med.
+1. TO THE HIGH AND MIGHTIE MONARCH, IAMES BY THE GRACE OF GOD KING OF Great Britaine, France, and Ireland, defender of the Faith, &c.
 
-1. IN OBITVM ET OPVS. Richardi Greenhami.
+1. TO THE RIGHT HONORABLE AND VERTVOVS LADIES THE LADIE MARGARET COVNTESSE OF CVMBERLAND, AND THE LADIE KATHERINE Countesse Dowager of Huntington: H. H. wisheth the increase of all true honour and comforts in this life, and after death a crowne of glory with Iesus Christ.
 
-1. ON THE DEATH AND WORKS OF MASTER GREENHAM.
+1. THE PREFACE TO THE READER.
+CHristian Reader, thou hast here all Maister GREENHAMS workes, as they haue beene heretofore gathere
+1. A SHORT AND GENERALL VIEVV OF ALL SVCH MATTERS AS ARE CONTAINED IN THE VVHOLE VVorkes of Mr.Greenham: digested after a more Methodicall manner then heretofore. The whole Booke is diuided into fiue seuerall parts, as hereafter followeth, with their particular Titles contained vnder euery one of the said Parts.
+EPIGRAMMA IN OPERA Pijssimi, & doctiss. Theologi. M. Ric. Greenham, labore ac studio. M. Hollandi, d
+    _ EPIGRAMMA IN OPERA Pijssimi, & doctiss. Theologi. M. Ric. Greenham, labore ac studio. M. Hollandi, diuini verbi apud Londinates Ministri fideliss. edita, post obitum Authoris, per F. Hering. D. Med.
 
-1. VPON HIS SABBATH.
+    _ IN OBITVM ET OPVS. Richardi Greenhami.
 
-1. ANOTHER IN ENGLISH IN COMMENDATION of Maister Greenham, and his godly and learned workes, set forth by Maister Holland, Preacher of Gods word.
+    _ ON THE DEATH AND WORKS OF MASTER GREENHAM.
+
+    _ VPON HIS SABBATH.
+
+    _ ANOTHER IN ENGLISH IN COMMENDATION of Maister Greenham, and his godly and learned workes, set forth by Maister Holland, Preacher of Gods word.
+
+1. TO THE RIGHT VVORSHIPFVLL SIR MARMADVKE DARRELL, AND SIR THOMAS BLOOTHER KNIGHTS, SVRVEYERS GENERALL FOR THE VICTVALING OF HIS MAIESTIES NAVIE: Stephen Egerton wisheth increase of all true comfort in this life, and euerlasting felicitie in the life to come through our Lord Iesus Christ.
 
 #####Back#####
-The workes of the reuerend and faithfull seruant af Iesus Christ M. Richard Greenham, minister and p
+
+1. A TABLE OF THE CHIEFE POINTS OF DOCTRINE HANDLED IN THIS VOLVME, GATHERED INTO AN Alphabeticall order.
+
 **Types of content**
 
   * There are 85 **verse** lines!
